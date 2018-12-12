@@ -1,0 +1,2 @@
+# tamagoshi
+Tamagochi simulator
